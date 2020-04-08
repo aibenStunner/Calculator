@@ -1,7 +1,7 @@
 ![](https://img.shields.io/maintenance/no/2018.svg)
 ![](https://img.shields.io/github/license/aibenStunner/Number-to-Text-Converter.svg)
 ![](https://img.shields.io/github/repo-size/aibenStunner/Number-to-Text-Converter.svg)
-# Number-to-Text-Converter
+# Scientific-Calculator
 A simple scientific calculator.
 
 ## Motivation :seedling:
