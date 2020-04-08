@@ -1,6 +1,6 @@
 ![](https://img.shields.io/maintenance/no/2018.svg)
-![](https://img.shields.io/github/license/aibenStunner/Number-to-Text-Converter.svg)
-![](https://img.shields.io/github/repo-size/aibenStunner/Number-to-Text-Converter.svg)
+![](https://img.shields.io/github/license/aibenStunner/Calculator.svg)
+![](https://img.shields.io/github/repo-size/aibenStunner/Calculator.svg)
 # Scientific-Calculator
 A simple scientific calculator.
 
